@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lygyogurt
 - 👀 I’m interested in counterstrike
-- 🌱 I’m currently learning RBFNN/CNN/SVM/HMM
+- 🌱 I’m currently learning CNN/SVM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
